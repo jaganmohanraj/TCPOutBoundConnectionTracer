@@ -1,0 +1,7 @@
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\bin\Debug\netstandard2.0\TCP.ConnectionTracer.deps.json
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\bin\Debug\netstandard2.0\TCP.ConnectionTracer.dll
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\bin\Debug\netstandard2.0\TCP.ConnectionTracer.pdb
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.ConnectionTracer.AssemblyInfoInputs.cache
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.ConnectionTracer.AssemblyInfo.cs
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.ConnectionTracer.dll
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.ConnectionTracer.pdb

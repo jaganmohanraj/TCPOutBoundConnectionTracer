@@ -1,0 +1,9 @@
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\bin\Debug\TCP.ConnectionTracer.dll
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\bin\Debug\TCP.ConnectionTracer.pdb
+C:\Users\Jagan.Mohanraj\source\repos\test\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete

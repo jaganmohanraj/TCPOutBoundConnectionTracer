@@ -1,0 +1,7 @@
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\bin\Debug\netstandard2.0\TCP.OutBoundConnection.deps.json
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\bin\Debug\netstandard2.0\TCP.OutBoundConnection.dll
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\bin\Debug\netstandard2.0\TCP.OutBoundConnection.pdb
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.OutBoundConnection.AssemblyInfoInputs.cache
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.OutBoundConnection.AssemblyInfo.cs
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.OutBoundConnection.dll
+C:\Users\Jagan.Mohanraj\source\repos\test\TCP.ConnectionTracer\obj\Debug\netstandard2.0\TCP.OutBoundConnection.pdb
